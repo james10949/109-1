@@ -12,8 +12,8 @@
 
 1. 2020.09.10 上課
 
-    [上傳2份檔案](https://github.com/404)
+    [上傳2份檔案](https://github.com/james10949/109-1/tree/master/20200910)
     |檔名|註解|
     |:---:|:---:|
-    |[Shutdown.c](https://github.com/404)|關機程式原始碼|
-    |[Cancel.c](https://github.com/404)|取消程式原始碼|
+    |[Shutdown.c](https://github.com/james10949/109-1/tree/master/20200910/Shutdown.c)|關機程式原始碼|
+    |[Cancel.c](https://github.com/james10949/109-1/tree/master/20200910/Cancel.c)|取消程式原始碼|

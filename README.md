@@ -17,3 +17,10 @@
     |:---:|:---:|
     |[Shutdown.c](https://github.com/james10949/109-1/tree/master/20200910/Shutdown.c)|關機程式原始碼|
     |[Cancel.c](https://github.com/james10949/109-1/tree/master/20200910/Cancel.c)|取消程式原始碼|
+
+2. 2020.09.17
+
+    [上傳了1份檔案](https://github.com/james10949/109-1/tree/master/20200917)
+    |檔名|註解|
+    |:---:|:---:|
+    |[Print.c](https://github.com/james10949/109-1/tree/master/20200910/Print.c)|印出程式原始碼|

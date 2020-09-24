@@ -7,7 +7,7 @@ main()
 	printf("Please input num 2:");
 	scanf("%d", &num2);
 	total = num1 + num2;
-	printf("num 1 + num 2 = %d", &total);
+	printf("num 1 + num 2 = %d", total);
 	getch();
 }
 head()

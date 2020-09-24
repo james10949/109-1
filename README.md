@@ -27,7 +27,8 @@
 
 3. 2020.09.24
 
-    [上傳了1份檔案](https://github.com/james10949/109-1/tree/master/20200924)
+    [上傳了2份檔案](https://github.com/james10949/109-1/tree/master/20200924)
     |檔名|註解|
     |:---:|:---:|
-    |[Extension.c](https://github.com/james10949/109-1/tree/master/20200924/Extension.c)|印出程式原始碼|
+    |[Extension.c](https://github.com/james10949/109-1/tree/master/20200924/Extension.c)|加總器原始碼|
+    |[Quiz.c](https://github.com/james10949/109-1/tree/master/20200924/Quiz.c)|惡趣味隨堂考原始碼|

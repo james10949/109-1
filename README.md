@@ -24,3 +24,10 @@
     |檔名|註解|
     |:---:|:---:|
     |[Print.c](https://github.com/james10949/109-1/tree/master/20200917/Print.c)|印出程式原始碼|
+
+3. 2020.09.24
+
+    [上傳了1份檔案](https://github.com/james10949/109-1/tree/master/20200924)
+    |檔名|註解|
+    |:---:|:---:|
+    |[Extension.c](https://github.com/james10949/109-1/tree/master/20200924/Extension.c)|印出程式原始碼|

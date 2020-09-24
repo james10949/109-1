@@ -2,12 +2,12 @@ main()
 {
 	head();
 	int num1, num2, total = 0;
-	printf("Please input num 1:");
+	printf("\nPlease input num 1:");
 	scanf("%d", &num1);
-	printf("Please input num 2:");
+	printf("\nPlease input num 2:");
 	scanf("%d", &num2);
 	total = num1 + num2;
-	printf("num 1 + num 2 = %d", total);
+	printf("\nnum 1 + num 2 = %d", total);
 	getch();
 }
 head()

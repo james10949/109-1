@@ -11,7 +11,7 @@ int main(void)
 	system("color 0a");
 	system("mode 45, 10");
 	srand(time(NULL));
-	int counter, min = 1, max = 50, ans = rand() % (max - min + 1) + min, guess;
+	int counter = 0, min = 1, max = 50, ans = rand() % (max - min + 1) + min, guess;
 guessing:
 	if (counter == 5)
 	{
@@ -32,7 +32,7 @@ guessing:
 	{
 		printf("This number is too far to the answer!\nMaybe you need to guess a small one.\nYou have %d chance left!\n===Press Any Key to Continue===", 4 - counter);
 		max = guess;
-		counter + 1;
+		counter ++;
 		system("pause > nul");
 		goto guessing;
 	}
@@ -40,7 +40,7 @@ guessing:
 	{
 		printf("This number is too far to the answer!\nMaybe you need to guess a big one.\nYou have %d chance left!\n===Press Any Key to Continue===", 4 - counter);
 		min = guess;
-		counter + 1;
+		counter ++;
 		system("pause > nul");
 		goto guessing;
 	}

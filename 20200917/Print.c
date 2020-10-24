@@ -1,3 +1,6 @@
+#include<stdio.h>
+#include<stdlib.h>
+#include<conio.h>
 main(){
 	system("title Code By ³¯«äÃè");
 	system("color 02");
